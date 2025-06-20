@@ -1,1 +1,1 @@
-# Negocia-oes-Typescript
+# Negocia-oes-Typescript.
